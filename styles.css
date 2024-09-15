@@ -23,6 +23,8 @@
             background-position: bottom;
             background-image: url(imagen-de-fondo-2.jpg); 
             background-attachment: fixed;
+            padding: 20px;
+            background-color: rgba(55, 63, 60, 0.293);
             
         ;
             
@@ -76,6 +78,8 @@ nav a:hover {
             transition: transform 0.5s ease, box-shadow 0.5s ease;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
              transition: transform 0.5s ease, box-shadow 0.5s ease; 
+            padding: 20px;
+            background-color: rgba(55, 63, 60, 0.293);
         }.service-item:hover {
     transform: translateY(-10px); 
     box-shadow: 0 10px 30px rgba(231, 225, 225, 0.2); 
